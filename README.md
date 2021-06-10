@@ -1,11 +1,3 @@
-# SDSU-CS496-S21-G13
-
-# Group 13 Gradebook Software:
-
-Jason
-Hashim
-Alberto
-
 Hello user! Welcome to Group 13's Gradebook Software v1.0. This software will allow you to to manage course assignments by granting you the ability to add, remove, edit, and list your assignments. For additional information on how this software works, please visit our user manual here!
 
 ***
