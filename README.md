@@ -5,7 +5,7 @@ Hello user! Welcome to Group 13's Gradebook Software v1.0. This software will al
 # Assigned Tasks: 
 Gradebook, Driver - Jason\
 JSON - Hashim\
-Assignment, GradeStatistics - Alberto\
+Assignment, GradeStatistics - Alberto
 
 # Current Updates:
 Version 1.0 released with ability to add, edit, remove, and list/sort assignments
